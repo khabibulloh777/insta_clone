@@ -1,0 +1,20 @@
+.home__story{
+    width: 65%;
+    height: 100px;
+    border: 1px solid #fae0e0;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+.home__story2{
+    display: flex;
+}
+.home__story::-webkit-scrollbar{
+    display: none;
+}
+
+
+
+
